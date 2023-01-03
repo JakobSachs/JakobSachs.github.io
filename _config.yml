@@ -7,7 +7,7 @@ description: "A at best sporadicly updated blog about coding, physics, math and 
 email: "jakobsachs1999@gmail.com"
 twitter_username: "JakobSachs1999"
 github_username: "JakobSachs"
-linkedin_username: "jakob-sachs-4a1a45162"
+linkedin_username: "jakob-sachs"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -23,10 +23,6 @@ theme: "minima"
 
 rss: rss
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
 plugins:
   - jekyll-feed
   - jekyll-sitemap
